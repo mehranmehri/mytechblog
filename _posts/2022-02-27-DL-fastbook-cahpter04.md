@@ -483,3 +483,7 @@ As expected, the loss values are decreasing. If we start the process over again 
 
 > Each iteration represents an entirely different quadratic function being tried, on the way to finding the best possible quadratic function.
 
+>[!NOTE]
+>
+>This is standard NOTE block.
+
